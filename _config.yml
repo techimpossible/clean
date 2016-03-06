@@ -1,13 +1,12 @@
 # Site settings
-title: Clean Blog
+title: Amazing Disney Collection
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: amazingpro@techimpossible.com
+description: "A Place Where Dreams Come True!"
 baseurl: ""
 url: "https://www.amazingdisneycollection.com/"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: Peter_Skaronis
+facebook_username:  
 
 # Build settings
 markdown: kramdown
